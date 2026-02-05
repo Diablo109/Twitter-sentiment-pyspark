@@ -45,9 +45,9 @@ The following classification models were trained and compared:
 ## Model Performance
 | Model                | F1 Score | ROC-AUC |
 |----------------------|----------|---------|
-| Logistic Regression  | 0.67     | 0.76    |
-| Naive Bayes          | 0.64     | 0.55    |
-| Linear SVC           | 0.66     | 0.75    |
+| Logistic Regression  | 0.78     | 0.86    |
+| Naive Bayes          | 0.77     | 0.54    |
+| Linear SVC           | 0.78     | 0.86    |
 
 **Best Model:** Logistic Regression
 
